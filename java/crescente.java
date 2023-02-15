@@ -1,6 +1,7 @@
+package algoritmos;
 import java.util.Scanner;
 
-public class Main {
+public class crescente {
 
 	public static void main(String[] args) {
 		

@@ -1,7 +1,8 @@
+package algoritmos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main {
+public class terreno {
 
 	public static void main(String[] args) {
 		

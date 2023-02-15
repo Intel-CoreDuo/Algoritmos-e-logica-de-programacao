@@ -1,7 +1,8 @@
+package algoritmos;
 import java.util.Scanner;
 import java.util.Locale;
 
-public class Main {
+public class soma_vetor {
 
 	public static void main(String[] args) {
 		
